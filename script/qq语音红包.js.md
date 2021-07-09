@@ -1,4 +1,4 @@
- # (qq语音红包.js
+ # qq语音红包.js
 ```
 importPackage(android.speech.tts);
 importClass(java.util.Locale);
